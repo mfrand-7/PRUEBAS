@@ -1,2 +1,2 @@
-# PRUEBAS
-Esto es para practicar
+# GITHUB usage testing
+
